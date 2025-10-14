@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Adrian, currently studying at the Silesian University of Technology in Gliwice.
+
+I'm currently working on my engineering thesis which can be found [here](https://github.com/Paraross/geo-app-thesis).
+
 <!--
 **Paraross/Paraross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
