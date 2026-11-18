@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I'm Adrian, currently studying at the Silesian University of Technology in Gliwice.
-
 <!--
 **Paraross/Paraross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
